@@ -1,5 +1,5 @@
 ++
-- (унарный минус)
+- unary minus
 sizeof
 %
 +
